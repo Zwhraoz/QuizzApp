@@ -1,0 +1,36 @@
+
+/* Class = "UIButton"; configuration.title = "C şıkkı"; ObjectID = "Bew-KU-I6R"; */
+"Bew-KU-I6R.configuration.title" = "C şıkkı";
+
+/* Class = "UIButton"; normalTitle = "Button"; ObjectID = "Bew-KU-I6R"; */
+"Bew-KU-I6R.normalTitle" = "Button";
+
+/* Class = "UILabel"; text = "QUİZ APP"; ObjectID = "GHY-Td-Bmv"; */
+"GHY-Td-Bmv.text" = "QUİZ APP";
+
+/* Class = "UIButton"; configuration.title = "A şıkkı"; ObjectID = "GkC-uf-Hns"; */
+"GkC-uf-Hns.configuration.title" = "A şıkkı";
+
+/* Class = "UIButton"; normalTitle = "Button"; ObjectID = "GkC-uf-Hns"; */
+"GkC-uf-Hns.normalTitle" = "Button";
+
+/* Class = "UILabel"; text = "HİGH SCORE:0"; ObjectID = "PDz-kB-H3o"; */
+"PDz-kB-H3o.text" = "HİGH SCORE:0";
+
+/* Class = "UIButton"; normalTitle = "Button"; ObjectID = "QD2-QO-fPM"; */
+"QD2-QO-fPM.normalTitle" = "Button";
+
+/* Class = "UILabel"; text = "Simyacı kitabının yazarı kimdir?"; ObjectID = "VSC-M6-El0"; */
+"VSC-M6-El0.text" = "Simyacı kitabının yazarı kimdir?";
+
+/* Class = "UIButton"; configuration.title = "D şıkkı"; ObjectID = "dqj-MZ-KdJ"; */
+"dqj-MZ-KdJ.configuration.title" = "D şıkkı";
+
+/* Class = "UIButton"; normalTitle = "Button"; ObjectID = "dqj-MZ-KdJ"; */
+"dqj-MZ-KdJ.normalTitle" = "Button";
+
+/* Class = "UIButton"; configuration.title = "B şıkkı"; ObjectID = "jdm-F0-DLN"; */
+"jdm-F0-DLN.configuration.title" = "B şıkkı";
+
+/* Class = "UIButton"; normalTitle = "Button"; ObjectID = "jdm-F0-DLN"; */
+"jdm-F0-DLN.normalTitle" = "Button";
